@@ -5,7 +5,7 @@ Like in Slack but anywhere on your windows machine.
 
 You type `:smiley:` anywhere and it gets replaced by 😃 without you noticing !
 
-The full list of supported emoji can be found here : https://unicodey.com/emoji-data/table.htm
+The full list of supported emoji can be found here : http://projects.iamcal.com/emoji-data/table.htm
 
 **Note**: All emoji with underscores like `:raised_hands:` are also available with spaces
 as `:raised hands:` for easier typing.
