@@ -8,4 +8,5 @@ custom_short_names = {
     # Custom aliases
     'white_check_mark': 'check',
     'stuck_out_tongue': 'tongue_face',
+    'rofl': 'rolling_on_the_floor_laughing'
 }
