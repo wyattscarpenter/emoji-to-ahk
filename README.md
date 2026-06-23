@@ -3,7 +3,7 @@
 This is an Autohotkey script to automatically replace your emoji from their shortnames.
 Like in Slack but anywhere on your windows machine.
 
-You type `:smiley:` anywhere and it gets replaced by 😃 without you noticing !
+You type `:smiley:` anywhere and it gets replaced by 😃 automatically!
 
 The full list of supported emoji can be found here : https://unicodey.com/emoji-data/table.htm
 
